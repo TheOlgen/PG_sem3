@@ -1,0 +1,32 @@
+1. Sprawdzenie swojego wyniku przez zawodnika.
+    Podaj jaki wynik uzyskał zawodnik o numerze pesel 91020255555 w wyścigu o
+    nazwie "finał Mężczyzn Jedynki" w kategorii M1x
+    
+2. Zorientowanie sie kiedy startują zawodnicy danego trenera.
+    Podaj godziny startów zawodników płci [żeńskiej] trenera [grzegorza kubicy].
+    
+3. Stworzenie statystyk sędziów, w celu odnalezienia najbardziej kompetentnego do prowadzenia nadchodzących zawodów.
+    Podaj liste sędziów (imie nazwisko numer_licencji) których licencja nie kończy się w okresie
+    najbliższych pół roku, którzy prowadzili już zawody kategorii jedynka i podaj liczbe
+    prowadzonych przez nich wyścigów w tej kategorii. Posortuj rosnąco względem nazwiska.
+    
+4. biznesman szuka zawodników najlepszego zepołu juniorów żeby ich sponsorować
+    znajdź zawodników, należących do osady, która ma największą ilość wygranych, którzy biorą
+    udział wyłącznie w zawodach juniorów
+    
+5. organizator zawodów, chce poinformować zawodników o sprawach organizacyjnych, ale nie wie kto startuje
+    znajdź zawodników, oraz trenera każdego z nich, którzy należą do osady, która bierze udział
+    w wyścigach dnia 2024-06-01
+    
+6. zawodnik zapomniał o której ma wyścig
+    znajdź wyścigi w których bierze udział dany zawodnik o peselu 87080865432, które jeszcze się nie odbyły, posortuj z
+    najbliższym na górze
+
+7. trener chce przeanalizować wyniki swojego zawodnika
+    Zestawienie wszystkich wyników (i w jakiej kategorii) jednego zawodnika o peselu 88051177777
+
+8. Jeden sędzia zachorował, organizatorzy poszukują zastępcy dla wyścigu
+    Znalezienie sędziów nie zajmujących się żadnym wyścigiem konkretnego dnia
+
+9. PZTW szuka statystyk klubów do rozdzielenia dofinansowań
+    Porównanie ilości zawodników i trenerów (format klub, ilość_zawodników, ilość_trenerów) we wszystkich klubach, lista od największego wg zawodników a pot
